@@ -45,6 +45,16 @@ nav:
       - Gameplay Glossary: reference/glossary.md
       - Solver Concepts: reference/solver-concepts.md
 
+  - Piece Library:
+      - Overview: reference/pieces/index.md
+      - Square: reference/pieces/square.md
+      - Line: reference/pieces/line.md
+      - L Shape: reference/pieces/l-shape.md
+      - T Shape: reference/pieces/t-shape.md
+      - Z Shape: reference/pieces/z-shape.md
+      - Corner: reference/pieces/corner.md
+      - Plus Shape: reference/pieces/plus-shape.md
+
   - Installation:
       - installation.md
 
