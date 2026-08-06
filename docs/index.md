@@ -18,8 +18,6 @@ Instead of focusing on short-lived news or scattered tips, this documentation br
 
 If you're new to the game, begin with the Getting Started guide before exploring the gameplay and troubleshooting sections.
 
-For expanded guides, news, and additional player resources, visit:
-
-[BlockBlastDownload](https://blockblastdownload.com/)
+For expanded guides, news, and additional player resources, visit: [BlockBlastDownload](https://blockblastdownload.com/)
 
 This documentation complements those resources by organizing information into a searchable knowledge base.
