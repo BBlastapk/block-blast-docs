@@ -25,6 +25,12 @@ This repository focuses on educational documentation rather than news or enterta
 
 Whenever possible, information is organized into reusable documentation instead of temporary blog posts.
 
+## Additional Resources
+
+For expanded gameplay guides, troubleshooting articles, and reference material that complements this documentation, visit:
+
+https://blockblastdownload.com/resource-hub/
+
 ## Contributing
 
 Suggestions, corrections, and improvements are welcome. Clear explanations, reproducible information, and well-documented observations help keep the documentation useful for everyone.
