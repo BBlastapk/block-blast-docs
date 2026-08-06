@@ -1,0 +1,44 @@
+[
+  {
+    "id": "square",
+    "category": "basic",
+    "recommended": "Beginner",
+    "description": "Compact piece with flexible placement."
+  },
+  {
+    "id": "line",
+    "category": "basic",
+    "recommended": "Beginner",
+    "description": "Useful for clearing long gaps."
+  },
+  {
+    "id": "l-shape",
+    "category": "advanced",
+    "recommended": "Intermediate",
+    "description": "Effective around corners."
+  },
+  {
+    "id": "t-shape",
+    "category": "advanced",
+    "recommended": "Intermediate",
+    "description": "Works well in open board layouts."
+  },
+  {
+    "id": "z-shape",
+    "category": "advanced",
+    "recommended": "Intermediate",
+    "description": "Requires careful positioning."
+  },
+  {
+    "id": "corner",
+    "category": "basic",
+    "recommended": "Beginner",
+    "description": "Helps preserve board flexibility."
+  },
+  {
+    "id": "plus-shape",
+    "category": "advanced",
+    "recommended": "Advanced",
+    "description": "Powerful when central space is available."
+  }
+]
