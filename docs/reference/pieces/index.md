@@ -25,3 +25,9 @@ Each reference explains:
 Practical strategy examples and walkthroughs are available at:
 
 https://blockblastdownload.com/game-guide/
+
+## Structured Reference Data
+
+Developers and community members interested in building educational projects can also explore the structured reference datasets included in this documentation.
+
+The JSON files provide a simple reference format for piece identifiers and related metadata.
