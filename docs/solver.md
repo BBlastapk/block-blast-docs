@@ -16,4 +16,4 @@ Every puzzle remains unique, so no automated solution guarantees the highest pos
 
 Players interested in exploring additional solver examples and walkthroughs can continue here:
 
-https://blockblastdownload.com/block-blast-solver/
+[Block Blast Solver](https://blockblastdownload.com/block-blast-solver/)

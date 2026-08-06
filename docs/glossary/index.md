@@ -109,4 +109,4 @@ For additional explanations and practical examples, continue with:
 
 Additional gameplay references are available here:
 
-https://blockblastdownload.com/game-guide/
+[Block Blast Gameplay Guide](https://blockblastdownload.com/game-guide/)

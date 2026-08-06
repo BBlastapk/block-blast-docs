@@ -15,7 +15,7 @@ Goals:
 
 For a complete introduction to gameplay mechanics and beginner concepts, see:
 
-https://blockblastdownload.com/game-guide/
+[Block Blast Gameplay Guide](https://blockblastdownload.com/game-guide/)
 
 ---
 

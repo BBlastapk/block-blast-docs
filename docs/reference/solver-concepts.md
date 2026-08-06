@@ -14,4 +14,4 @@ No solver can guarantee the highest possible score because future pieces introdu
 
 ## Additional Examples
 
-https://blockblastdownload.com/block-blast-solver/
+[Block Blast Solver](https://blockblastdownload.com/block-blast-solver/)

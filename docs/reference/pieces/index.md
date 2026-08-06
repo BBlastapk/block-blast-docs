@@ -24,7 +24,7 @@ Each reference explains:
 
 Practical strategy examples and walkthroughs are available at:
 
-https://blockblastdownload.com/game-guide/
+[Block Blast Gameplay Guide](https://blockblastdownload.com/game-guide/)
 
 ## Structured Reference Data
 

@@ -26,4 +26,4 @@ The strongest players constantly evaluate how each move will affect future place
 
 For a broader walkthrough covering gameplay progression, practical examples, and additional strategies, visit:
 
-https://blockblastdownload.com/game-guide/
+[Block Blast Gameplay Guide](https://blockblastdownload.com/game-guide/)

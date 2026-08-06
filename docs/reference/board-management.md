@@ -31,4 +31,4 @@ Sometimes accepting a smaller score now prevents much larger problems later.
 
 More practical gameplay examples are available here:
 
-https://blockblastdownload.com/game-guide/
+[Block Blast Gameplay Guide](https://blockblastdownload.com/game-guide/)

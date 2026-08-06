@@ -20,4 +20,4 @@ Small improvements in board management usually produce larger score increases th
 
 For a more detailed introduction covering gameplay progression, board management, and beginner strategies, see:
 
-https://blockblastdownload.com/game-guide/
+[Block Blast Gameplay Guide](https://blockblastdownload.com/game-guide/)
