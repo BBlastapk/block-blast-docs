@@ -1,15 +1,37 @@
-## Summary
+# Pull Request Summary
 
-Describe your changes.
+Thank you for contributing to Block Blast Docs.
 
-## Type of change
+## What does this pull request improve?
 
-- [ ] Documentation
-- [ ] Bug fix
-- [ ] Improvement
+- [ ] Gameplay guide
+- [ ] Strategy documentation
+- [ ] Troubleshooting
+- [ ] Installation guide
+- [ ] Reference library
+- [ ] Version information
+- [ ] FAQ
+- [ ] Navigation
+- [ ] Documentation formatting
+- [ ] Other
 
-## Checklist
+## Description
 
-- [ ] Links checked
-- [ ] Formatting reviewed
-- [ ] Documentation updated if needed
+Provide a brief summary of the changes.
+
+---
+
+## Documentation Checklist
+
+- [ ] Information is accurate.
+- [ ] Existing documentation was reviewed to avoid duplication.
+- [ ] Internal links have been verified.
+- [ ] Markdown formatting has been checked.
+- [ ] New pages are linked from the documentation navigation (if applicable).
+- [ ] Related documentation has been updated where appropriate.
+
+---
+
+## Additional Notes
+
+Include any context that reviewers should know before merging this pull request.
