@@ -1,8 +1,8 @@
 site_name: Block Blast Docs
 site_description: Community-maintained documentation for Block Blast gameplay, troubleshooting, strategy, and reference material.
-site_url: https://YOUR_GITHUB_USERNAME.github.io/block-blast-docs/
+site_url: https://github.com/BBlastapk/block-blast-docs/
 
-repo_url: https://github.com/YOUR_GITHUB_USERNAME/block-blast-docs
+repo_url: https://github.com/BBlastapk/block-blast-docs/
 repo_name: block-blast-docs
 
 theme:
