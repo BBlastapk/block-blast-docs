@@ -78,4 +78,4 @@ Advanced players continually review their own gameplay to identify repeated mist
 
 Additional gameplay analysis, examples, and strategy articles are available here:
 
-https://blockblastdownload.com/high-score-guide/
+[High Score Guide](https://blockblastdownload.com/high-score-guide/)

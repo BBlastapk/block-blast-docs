@@ -29,7 +29,7 @@ Whenever possible, information is organized into reusable documentation instead 
 
 For expanded gameplay guides, troubleshooting articles, and reference material that complements this documentation, visit:
 
-https://blockblastdownload.com/resource-hub/
+[Block Blast Resource Hub]([Block Blast Resource Hub](https://blockblastdownload.com/resource-hub/))
 
 ## Contributing
 

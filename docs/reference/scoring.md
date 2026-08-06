@@ -18,4 +18,4 @@ Many experienced players deliberately slow down to evaluate multiple placements 
 
 Additional scoring techniques and gameplay examples:
 
-https://blockblastdownload.com/high-score-guide/
+[High Score Guide](https://blockblastdownload.com/high-score-guide/)

@@ -14,8 +14,8 @@ Before attempting installation, confirm that your device has sufficient storage 
 
 Additional installation walkthroughs are available here:
 
-https://blockblastdownload.com/install-guide/
+[Installation Guide](https://blockblastdownload.com/install-guide/)
 
 If installation errors continue after following the standard steps, see:
 
-https://blockblastdownload.com/installation-failed-fix/
+[Installation Troubleshooting Guide](https://blockblastdownload.com/installation-failed-fix/)

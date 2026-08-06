@@ -12,4 +12,4 @@ Recommended resources include:
 
 Reference Library
 
-https://blockblastdownload.com/resource-hub/
+[Block Blast Resource Hub]([Block Blast Resource Hub](https://blockblastdownload.com/resource-hub/))

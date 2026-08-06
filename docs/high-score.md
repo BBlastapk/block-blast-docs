@@ -16,4 +16,4 @@ Many score improvements come from avoiding mistakes rather than discovering hidd
 
 Additional examples and strategy discussions can be found here:
 
-https://blockblastdownload.com/high-score-guide/
+[High Score Guide](https://blockblastdownload.com/high-score-guide/)

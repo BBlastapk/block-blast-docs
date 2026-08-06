@@ -68,4 +68,4 @@ For detailed compatibility information, continue to:
 
 Expanded version information, installation guidance, and update articles are available here:
 
-https://blockblastdownload.com/latest-version/
+[Latest Version Guide](https://blockblastdownload.com/latest-version/)

@@ -12,4 +12,4 @@ Yes. Strategy, troubleshooting, and gameplay concepts are the primary focus.
 
 Additional walkthroughs and reference articles are available through the Resource Hub.
 
-https://blockblastdownload.com/resource-hub/
+[Block Blast Resource Hub]([Block Blast Resource Hub](https://blockblastdownload.com/resource-hub/))

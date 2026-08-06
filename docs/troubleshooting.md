@@ -15,4 +15,4 @@ Working through one possible cause at a time is usually more effective than tryi
 
 For detailed troubleshooting procedures, visit:
 
-[Troubleshooting Guide](https://blockblastdownload.com/not-working-fix/)
+[Troubleshooting Guide]([Troubleshooting Guide](https://blockblastdownload.com/not-working-fix/))

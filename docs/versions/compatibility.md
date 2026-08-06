@@ -54,11 +54,11 @@ If compatibility appears correct but installation still fails, review the instal
 
 Installation Guide:
 
-https://blockblastdownload.com/install-guide/
+[Installation Guide](https://blockblastdownload.com/install-guide/)
 
 For installation error troubleshooting:
 
-https://blockblastdownload.com/installation-failed-fix/
+[Installation Troubleshooting Guide](https://blockblastdownload.com/installation-failed-fix/)
 
 ---
 

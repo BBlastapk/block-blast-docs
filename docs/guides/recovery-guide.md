@@ -85,7 +85,7 @@ Regular review helps improve future decision making.
 
 For additional troubleshooting, gameplay examples, and strategy discussions, see:
 
-[Troubleshooting Guide](https://blockblastdownload.com/not-working-fix/)
+[Troubleshooting Guide]([Troubleshooting Guide](https://blockblastdownload.com/not-working-fix/))
 
 For broader gameplay techniques and planning strategies, visit:
 
