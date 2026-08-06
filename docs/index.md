@@ -20,6 +20,6 @@ If you're new to the game, begin with the Getting Started guide before exploring
 
 For expanded guides, news, and additional player resources, visit:
 
-https://blockblastdownload.com/
+[BlockBlastDownload](https://blockblastdownload.com/)
 
 This documentation complements those resources by organizing information into a searchable knowledge base.
