@@ -16,8 +16,12 @@ theme:
     - navigation.indexes
     - search.highlight
     - search.suggest
+    - search.share
     - content.code.copy
     - content.action.edit
+
+plugins:
+  - search
 
 markdown_extensions:
   - admonition
@@ -27,6 +31,12 @@ markdown_extensions:
   - toc:
       permalink: true
 
+extra:
+  generator: false
+
+copyright: >
+  © 2026 Block Blast Docs
+
 nav:
   - Home: index.md
 
@@ -34,26 +44,33 @@ nav:
       - getting-started.md
 
   - Gameplay:
-      - game-mechanics.md
-      - high-score.md
-      - solver.md
+      - Game Mechanics: game-mechanics.md
+      - High Score: high-score.md
+      - Solver: solver.md
+
+  - Guides:
+      - Beginner Roadmap: guides/beginner-roadmap.md
+      - Advanced Play: guides/advanced-play.md
+      - Recovery Guide: guides/recovery-guide.md
 
   - Reference:
       - Overview: reference/index.md
       - Board Management: reference/board-management.md
       - Scoring: reference/scoring.md
-      - Gameplay Glossary: reference/glossary.md
       - Solver Concepts: reference/solver-concepts.md
+      - Piece Library:
+          - Overview: reference/pieces/index.md
 
-  - Piece Library:
-      - Overview: reference/pieces/index.md
-      - Square: reference/pieces/square.md
-      - Line: reference/pieces/line.md
-      - L Shape: reference/pieces/l-shape.md
-      - T Shape: reference/pieces/t-shape.md
-      - Z Shape: reference/pieces/z-shape.md
-      - Corner: reference/pieces/corner.md
-      - Plus Shape: reference/pieces/plus-shape.md
+  - Versions:
+      - Overview: versions/index.md
+      - Compatibility: versions/compatibility.md
+
+  - Changelog:
+      - Overview: changelog/index.md
+      - Latest: changelog/latest.md
+
+  - Glossary:
+      - Glossary: glossary/index.md
 
   - Installation:
       - installation.md
