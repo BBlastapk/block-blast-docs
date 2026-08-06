@@ -17,4 +17,4 @@ The Reference Library collects technical and gameplay reference material in one 
 
 For practical walkthroughs, troubleshooting guides, and player resources, visit:
 
-[Block Blast Resource Hub]([Block Blast Resource Hub](https://blockblastdownload.com/resource-hub/))
+[Block Blast Resource Hub]([Block Blast Resource Hub]([Block Blast Resource Hub](https://blockblastdownload.com/resource-hub/)))

@@ -8,4 +8,4 @@ This project is not affiliated with or endorsed by the creators of Block Blast.
 
 Additional guides and reference articles are available at:
 
-[Block Blast Resource Hub]([Block Blast Resource Hub](https://blockblastdownload.com/resource-hub/))
+[Block Blast Resource Hub]([Block Blast Resource Hub]([Block Blast Resource Hub](https://blockblastdownload.com/resource-hub/)))

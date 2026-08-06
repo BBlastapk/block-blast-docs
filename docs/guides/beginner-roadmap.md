@@ -76,4 +76,4 @@ After building confidence with the fundamentals, explore more advanced topics su
 
 Additional reference material is available throughout this documentation and in the extended gameplay resources at:
 
-[Block Blast Resource Hub]([Block Blast Resource Hub](https://blockblastdownload.com/resource-hub/))
+[Block Blast Resource Hub]([Block Blast Resource Hub]([Block Blast Resource Hub](https://blockblastdownload.com/resource-hub/)))
