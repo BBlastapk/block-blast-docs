@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://bblastapk.github.io/block-blast-docs/sitemap.xml
