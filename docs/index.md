@@ -1,25 +1,25 @@
 # Block Blast Docs
 
-Welcome to Block Blast Docs.
+Welcome to **Block Blast Docs**, a community-maintained documentation project for players looking to better understand the game through organized reference material.
 
-This project is a community-maintained documentation site that collects gameplay knowledge, troubleshooting steps, strategy references, and educational resources into one organized location.
+Instead of focusing on short-lived news or scattered tips, this documentation brings together gameplay concepts, troubleshooting information, installation references, and strategy topics in a structured format that is easy to browse.
 
-Unlike blog posts, the articles here are intended to stay useful over time by documenting concepts, common issues, and gameplay techniques in a structured format.
-
-## Documentation Sections
+## What You'll Find
 
 - Gameplay fundamentals
-- Strategy guides
-- Solver concepts
-- Installation help
-- Troubleshooting
+- Puzzle-solving strategies
+- High score techniques
+- Installation references
+- Common troubleshooting steps
 - Frequently asked questions
-- Additional resources
+- Additional learning resources
 
-## Related Resources
+## Start Here
 
-Some topics are covered in greater depth on BlockBlastDownload:
+If you're new to the game, begin with the Getting Started guide before exploring the gameplay and troubleshooting sections.
 
-https://blockblastdownload.com/resource-hub/
+For expanded guides, news, and additional player resources, visit:
 
-Those articles complement this documentation with expanded walkthroughs, examples, and reference material.
+https://blockblastdownload.com/
+
+This documentation complements those resources by organizing information into a searchable knowledge base.
