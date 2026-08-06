@@ -38,6 +38,13 @@ nav:
       - high-score.md
       - solver.md
 
+  - Reference:
+      - Overview: reference/index.md
+      - Board Management: reference/board-management.md
+      - Scoring: reference/scoring.md
+      - Gameplay Glossary: reference/glossary.md
+      - Solver Concepts: reference/solver-concepts.md
+
   - Installation:
       - installation.md
 
