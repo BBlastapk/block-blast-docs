@@ -1,9 +1,9 @@
 site_name: Block Blast Docs
-site_description: Community-maintained documentation for Block Blast gameplay, troubleshooting, strategy, and reference material.
-site_url: https://github.com/BBlastapk/block-blast-docs/
+site_description: Community-maintained documentation covering gameplay, puzzle strategy, troubleshooting, installation, and technical reference material for Block Blast.
+site_url: https://bblastapk.github.io/block-blast-docs/
 
-repo_url: https://github.com/BBlastapk/block-blast-docs/
-repo_name: block-blast-docs
+repo_name: BBlastapk/block-blast-docs
+repo_url: https://github.com/BBlastapk/block-blast-docs
 
 theme:
   name: material
@@ -13,26 +13,42 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.indexes
     - search.highlight
     - search.suggest
     - content.code.copy
+    - content.action.edit
 
 markdown_extensions:
   - admonition
+  - attr_list
+  - footnotes
   - tables
   - toc:
       permalink: true
 
 nav:
   - Home: index.md
-  - Getting Started: getting-started.md
+
+  - Getting Started:
+      - getting-started.md
+
   - Gameplay:
-      - Game Mechanics: game-mechanics.md
-      - High Score Guide: high-score.md
-      - Solver Guide: solver.md
+      - game-mechanics.md
+      - high-score.md
+      - solver.md
+
+  - Installation:
+      - installation.md
+
   - Troubleshooting:
-      - Installation: installation.md
-      - Troubleshooting: troubleshooting.md
-  - FAQ: faq.md
-  - Resources: resources.md
-  - About: about.md
+      - troubleshooting.md
+
+  - FAQ:
+      - faq.md
+
+  - Resources:
+      - resources.md
+
+  - About:
+      - about.md
